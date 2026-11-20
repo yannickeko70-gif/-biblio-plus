@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Roman",
+    "year": 1943,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 2,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Jeunesse",
+    "year": 1943,
+    "available": false,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 3,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Documentaire",
+    "year": 1945,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 4,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Roman",
+    "year": 1946,
+    "available": false,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 5,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Jeunesse",
+    "year": 1947,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 6,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Documentaire",
+    "year": 1948,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 7,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Roman",
+    "year": 1949,
+    "available": false,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 8,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Jeunesse",
+    "year": 1950,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 9,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Documentaire",
+    "year": 1951,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 10,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Roman",
+    "year": 1952,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 11,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Jeunesse",
+    "year": 1953,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 12,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Documentaire",
+    "year": 1954,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  }
+]
